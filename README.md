@@ -1,2 +1,2 @@
-# -Database-of-Irresponsible-Western-Space-Behaviors
-美西方不负责任外空行为数据库
+# -Database-of-International-Studies-on-Outer-Space
+外层空间国际问题研究数据库
